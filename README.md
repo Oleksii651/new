@@ -1,13 +1,13 @@
-    THIS IS MY FINAL PROJECT
+    КІНЦЕВИЙ ПРОЄКТ
     ==========================
-    This is my final project for the course. It includes a web application that allows users to view the menu, choose delicious dishes 
-    and place orders directly on the website. Users will be able to register, log in to their accounts, see order history, and the 
-    administrator will be able to manage the menu, adding new, appetizing items. The application is built using Flask and SQLite.
-    The project is structured in a way that allows for easy expansion and addition of new features in the future. The code is organized into
-    different modules, making it easy to maintain and update. The project is designed to be user-friendly and visually appealing, with a focus on
-    providing a great user experience. The application is responsive and works well on both desktop and mobile devices. The project is hosted on GitHub,
-    and the code is available for anyone to view and contribute to. The project is licensed under the MIT License, allowing for free use and modification.
-    The project is a great example of what can be achieved with Flask and SQLite, and it showcases the power and flexibility of these technologies.
-    The project is a great way to learn about web development and gain practical experience in building a real-world application. It is a valuable addition 
-    to my portfolio and demonstrates my skills as a developer. I hope you enjoy using the application as much as I enjoyed building it!
+    Це мій кінцевий проект для курсу. Він включає веб-додаток, який дозволяє користувачам переглядати меню, вибирати смачні страви 
+    і в майбутьньому замовляти їх. Користувачі зможуть зареєструватися, увійти у свої облікові записи,
+    адміністратор зможе керувати меню, додаючи нові, апетитні позиції. Програма створена за допомогою Flask і 
+    PostgreSQL.
+    Проект структурований таким чином, що дозволяє легко розширювати та додавати нові функції в майбутньому. Проект розроблено таким чином, щоб бути зручним для користувача та візуально привабливим, з акцентом на
+    забезпечуючи чудовий досвід користувача. Програма покищо працює тільки на настільних пристроєх, в майбутньому передбачається адаптація також на мобілбні пристрої. Проект розміщено на GitHub,
+    і код доступний для будь-кого, щоб переглянути та зробити свій внесок. Проект ліцензовано згідно з ліцензією MIT, що дозволяє вільне використання та модифікацію.
+    Цей проект є чудовим прикладом того, чого можна досягти за допомогою Flask і PostgresSQL, і він демонструє потужність і гнучкість цих технологій.
+    Проект є чудовим способом дізнатися про веб-розробку та отримати практичний досвід створення реальних програм. Це цінне доповнення 
+    до мого портфоліо що демонструє мої навички розробника. Сподіваюся, вам сподобається користуватися програмою так само, як мені сподобалося її створювати!
     ===========================
