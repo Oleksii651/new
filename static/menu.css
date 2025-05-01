@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+    body {
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+            background-image: url('img/back_ground.png');
+            background-size: cover;
+            color: #fff;
+        }
+        header {
+            text-align: center;
+            padding: 50px 20px 20px 20px;
+        }
+        #ol {
+            font-size: 36px;
+            color: #ff00d4;
+            margin-bottom: 10px;
+        }
+        header h1 {
+            font-size: 48px;
+            color: #00f0ff;
+        }
+        .menu-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            padding: 40px 20px;
+        }
+        .menu-item {
+            width: 300px;
+            border-radius: 20px;
+            margin: 20px;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            color: #000;
+        }
+        .menu-item img {
+            width: 100%;
+            border-radius: 20px;
+        }
+        .menu-item h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        .menu-item p {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        .menu-item .price {
+            font-size: 20px;
+            font-weight: bold;
+            color: #ff00d4;
+        }
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            margin: 10px;
+            background: #00f0ff;
+            color: #0d0d0d;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 8px;
+        }
+        .btn:hover {
+            background: #ff00ff;
+            color: #fff;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #000;
+            color: #fff;
+        }
+        footer p {
+            margin: 0;
+        }
+        footer a {
+            color: #00f0ff;
+            text-decoration: none;
+            margin-top: 20px;
+        }
+        footer a:hover {
+            color: #ff00d4;
+        }

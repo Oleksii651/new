@@ -1,0 +1,9 @@
+sqlalchemy
+datetime
+flask_login
+bcrypt
+os
+dotenv
+flask_login
+flask
+secrets
